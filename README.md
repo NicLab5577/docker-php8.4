@@ -2,10 +2,10 @@
 
 A Debian LAMP container
 
-It's on [docker-hub](https://hub.docker.com/repository/docker/niclab/php8.3/) and [github](https://github.com/NicLab5577/docker-php8.3)
+It's on [docker-hub](https://hub.docker.com/repository/docker/niclab/php8.4/) and [github](https://github.com/NicLab5577/docker-php8.4)
 
 ## tags and links
-* `latest` [(main/Dockerfile)](https://github.com/NicLab5577/docker-php8.3/blob/main/Dockerfile)
+* `latest` [(main/Dockerfile)](https://github.com/NicLab5577/docker-php8.4/blob/main/Dockerfile)
 
 ## how to build
 
